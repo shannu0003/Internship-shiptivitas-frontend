@@ -6,7 +6,7 @@ took the base shipping productivity tool and added a new feature, the kanban boa
 
 UPDATES
 
-   * enabled a feature where user can change the card among swimlanes
+   * Enabled a feature where user can change the card among swimlanes
    * When a user drags a card to a new swimlane, it stays in the pointed swimlane
-   * card color changes when card changes the swimlane
+   * Card color changes when card changes the swimlane
      
